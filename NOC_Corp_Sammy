@@ -4,12 +4,12 @@
   "autoStart": false,
   "lazyLoadTabs": false,
   "websites": [
-    { // NOC CORPORATIVO - AGING
+    { "_comment":"// NOC CORPORATIVO - AGING",
       "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/ef776b20-f38e-4837-8f89-db39a28a8532?chromeless=true",
       "duration": 90,
       "tabReloadIntervalSeconds": 21600
     },
-    { // CS_NPS
+    { "_comment":"// CS_NPS",
       "url": "https://app.powerbi.com/groups/me/reports/35851c46-4696-40fc-8c3b-2ccae71ba29f/ReportSection9869a648253e86ef871e?chromeless=true",
       "duration": 90,
       "tabReloadIntervalSeconds": 60
