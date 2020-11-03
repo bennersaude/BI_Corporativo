@@ -1,0 +1,33 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "websites": [
+    { "_comment":"NOC - AGING",
+      "url": "https://app.powerbi.com/groups/me/reports/ef776b20-f38e-4837-8f89-db39a28a8532?chromeless=true",
+      "duration": 90,
+      "tabReloadIntervalSeconds": 7200
+    },
+    { "_comment":"NOC - BPO",
+      "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/01f6b7e5-b76d-4745-a9a0-8f5756346430/ReportSection6c4da91a2adc342abcd2?chromeless=true",
+      "duration": 90,
+      "tabReloadIntervalSeconds": 120
+    },
+    { "_comment":"NOC - BPO2",
+      "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/01f6b7e5-b76d-4745-a9a0-8f5756346430/ReportSection6af28ec89d3435724297?chromeless=true",
+      "duration": 90,
+      "tabReloadIntervalSeconds": 120
+    },
+    { "_comment":"NOC - HELP BTO & SISCON",
+      "url": "https://app.powerbi.com/groups/me/reports/5271db4f-728d-4bf3-a0ca-c84824a6e8a9?chromeless=true",
+      "duration": 90,
+      "tabReloadIntervalSeconds": 120
+    },
+    { "_comment":"CS_NPS",
+      "url": "https://app.powerbi.com/groups/me/reports/35851c46-4696-40fc-8c3b-2ccae71ba29f/ReportSection9869a648253e86ef871e?chromeless=true",
+      "duration": 90,
+      "tabReloadIntervalSeconds": 3600
+    }
+  ]
+}
