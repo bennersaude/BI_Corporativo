@@ -28,6 +28,12 @@
       "url": "https://app.powerbi.com/groups/me/reports/629f5960-966b-49a8-8deb-1e7b962ab11c/ReportSectione2e3039b9ea476461aa6?chromeless=true",
       "duration": 90,
       "tabReloadIntervalSeconds": 3600
+    },
+    { "_comment":"CS_Ocorrências",
+      "url": "https://app.powerbi.com/groups/me/reports/f0d4ac05-e864-4fce-b8bc-00b4ac6f948f/ReportSection87d1f5f908e786f056b6?chromeless=true",
+      "duration": 90,
+      "tabReloadIntervalSeconds": 3600
     }
   ]
 }
+
