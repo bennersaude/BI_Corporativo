@@ -13,6 +13,12 @@
       "url": "https://app.powerbi.com/groups/me/reports/629f5960-966b-49a8-8deb-1e7b962ab11c/ReportSectione2e3039b9ea476461aa6?chromeless=true",
       "duration": 90,
       "tabReloadIntervalSeconds": 180
+    },
+    { "_comment":"// CS_JURÍDICO",
+      "url": "https://app.powerbi.com/groups/me/reports/8fdd5103-ed09-452c-bb5c-9fd473500121/ReportSection21117021dd1073ed04c2?chromeless=true",
+      "duration": 90,
+      "tabReloadIntervalSeconds": 180
     }
   ]
 }
+
