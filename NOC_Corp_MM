@@ -4,10 +4,15 @@
   "autoStart": true,
   "lazyLoadTabs": false,
   "websites": [
-    { "_comment":"NOC - AGING",
-      "url": "https://app.powerbi.com/groups/me/reports/ef776b20-f38e-4837-8f89-db39a28a8532?chromeless=true",
+    { "_comment":"Indicadores NOC - Aging",
+      "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/4853f735-96a8-4072-83e6-8e39db1de903/ReportSection?chromeless=true",
       "duration": 90,
-      "tabReloadIntervalSeconds": 300
+      "tabReloadIntervalSeconds": 7200
+    },
+    { "_comment":"Indicadores NOC - Títulos e Valores",
+      "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/4853f735-96a8-4072-83e6-8e39db1de903/ReportSectionbfd2152c4e0e71d7b067?chromeless=true",
+      "duration": 90,
+      "tabReloadIntervalSeconds": 7200
     },
     { "_comment":"NOC - BPO",
       "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/01f6b7e5-b76d-4745-a9a0-8f5756346430/ReportSection6c4da91a2adc342abcd2?chromeless=true",
