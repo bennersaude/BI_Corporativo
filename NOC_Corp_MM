@@ -7,12 +7,12 @@
     { "_comment":"Indicadores NOC - Aging",
       "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/4853f735-96a8-4072-83e6-8e39db1de903/ReportSection?chromeless=true",
       "duration": 90,
-      "tabReloadIntervalSeconds": 7200
+      "tabReloadIntervalSeconds": 300
     },
     { "_comment":"Indicadores NOC - Títulos e Valores",
       "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/4853f735-96a8-4072-83e6-8e39db1de903/ReportSectionbfd2152c4e0e71d7b067?chromeless=true",
       "duration": 90,
-      "tabReloadIntervalSeconds": 7200
+      "tabReloadIntervalSeconds": 300
     },
     { "_comment":"NOC - BPO",
       "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/01f6b7e5-b76d-4745-a9a0-8f5756346430/ReportSection6c4da91a2adc342abcd2?chromeless=true",
@@ -32,12 +32,12 @@
     { "_comment":"CS_NPS",
       "url": "https://app.powerbi.com/groups/me/reports/629f5960-966b-49a8-8deb-1e7b962ab11c/ReportSectione2e3039b9ea476461aa6?chromeless=true",
       "duration": 90,
-      "tabReloadIntervalSeconds": 3600
+      "tabReloadIntervalSeconds": 300
     },
     { "_comment":"CS_Ocorrências",
       "url": "https://app.powerbi.com/groups/me/reports/e70ddae6-7f14-48e8-98cc-3df8adbb208f/ReportSection87d1f5f908e786f056b6?chromeless=true",
       "duration": 90,
-      "tabReloadIntervalSeconds": 3600
+      "tabReloadIntervalSeconds": 300
     }
   ]
 }
