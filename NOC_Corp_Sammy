@@ -7,36 +7,36 @@
     { "_comment":"Indicadores NOC - Aging",
       "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/4853f735-96a8-4072-83e6-8e39db1de903/ReportSection?chromeless=true",
       "duration": 90,
-      "tabReloadIntervalSeconds": 300
+      "tabReloadIntervalSeconds": 180
     },
     { "_comment":"Indicadores NOC - Títulos e Valores",
       "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/4853f735-96a8-4072-83e6-8e39db1de903/ReportSectionbfd2152c4e0e71d7b067?chromeless=true",
       "duration": 90,
-      "tabReloadIntervalSeconds": 300
+      "tabReloadIntervalSeconds": 180
     },
     { "_comment":"CS_NPS",
       "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/a67aa9e5-e293-49f5-bd90-70d7d8e0f0d9/ReportSection?chromeless=true",
       "duration": 90,
-      "tabReloadIntervalSeconds": 300
+      "tabReloadIntervalSeconds": 180
     },
     { "_comment":"CS_NPS2",
       "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/a67aa9e5-e293-49f5-bd90-70d7d8e0f0d9/ReportSection1b6d846561bbde0c96d0?chromeless=true",
       "duration": 90,
-      "tabReloadIntervalSeconds": 300
+      "tabReloadIntervalSeconds": 180
     },{ "_comment":"CS_Ocorrências",
       "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/3ec5423e-33a8-402f-8a73-6d11bfdc35c2/ReportSection33d3dd83e9664105dd0f?chromeless=true",
       "duration": 90,
-      "tabReloadIntervalSeconds": 300
+      "tabReloadIntervalSeconds": 180
     },
     { "_comment":"CS_Ocorrências2",
       "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/3ec5423e-33a8-402f-8a73-6d11bfdc35c2/ReportSection6c3b417364cd5ebb3455?chromeless=true",
       "duration": 90,
-      "tabReloadIntervalSeconds": 300
+      "tabReloadIntervalSeconds": 180
     },
     { "_comment":"// CS_JURÍDICO",
       "url": "https://app.powerbi.com/groups/me/reports/8fdd5103-ed09-452c-bb5c-9fd473500121/ReportSection21117021dd1073ed04c2?chromeless=true",
       "duration": 90,
-      "tabReloadIntervalSeconds": 300
+      "tabReloadIntervalSeconds": 180
     }
   ]
 }
