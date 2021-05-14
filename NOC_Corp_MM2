@@ -23,6 +23,11 @@
       "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/3ec5423e-33a8-402f-8a73-6d11bfdc35c2/ReportSection6c3b417364cd5ebb3455?chromeless=true",
       "duration": 90,
       "tabReloadIntervalSeconds": 120
+    },
+    { "_comment":"NRR",
+      "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/6e2554fe-4135-484b-9e4a-aaa1b5d56839/ReportSection?chromeless=true",
+      "duration": 90,
+      "tabReloadIntervalSeconds": 120
     }
   ]
 }
