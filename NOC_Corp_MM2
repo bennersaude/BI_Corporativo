@@ -4,13 +4,23 @@
   "autoStart": true,
   "lazyLoadTabs": false,
   "websites": [
-    { "_comment":"CS_NPS",
+    { "_comment":"NPS",
       "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/a67aa9e5-e293-49f5-bd90-70d7d8e0f0d9/ReportSection?chromeless=true",
       "duration": 90,
       "tabReloadIntervalSeconds": 120
     },
-    { "_comment":"CS_NPS2",
-      "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/a67aa9e5-e293-49f5-bd90-70d7d8e0f0d9/ReportSection1b6d846561bbde0c96d0?chromeless=true",
+    { "_comment":"NPS - Produtos",
+      "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/a67aa9e5-e293-49f5-bd90-70d7d8e0f0d9/ReportSection8ee34d4dbb69de87f723?chromeless=true",
+      "duration": 90,
+      "tabReloadIntervalSeconds": 120
+    },
+    { "_comment":"NPS - Gestores",
+      "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/a67aa9e5-e293-49f5-bd90-70d7d8e0f0d9/ReportSection68184735d9787531d868?chromeless=true",
+      "duration": 90,
+      "tabReloadIntervalSeconds": 120
+    },
+    { "_comment":"NPS - Projeção Unidade",
+      "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/a67aa9e5-e293-49f5-bd90-70d7d8e0f0d9/ReportSection38b5bb1fa9fc70f8f818?chromeless=true",
       "duration": 90,
       "tabReloadIntervalSeconds": 120
     },
