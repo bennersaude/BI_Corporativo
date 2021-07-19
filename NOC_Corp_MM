@@ -5,17 +5,17 @@
   "lazyLoadTabs": false,
   "websites": [
     { "_comment":"Indicadores NOC - Aging",
-      "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/4853f735-96a8-4072-83e6-8e39db1de903/ReportSection35ec580db9a92b74d1f0?chromeless=true",
+      "url": "https://app.powerbi.com/groups/35f90e9f-3720-49a9-b741-a345850636fd/reports/df228ce4-41e5-48cd-b00e-e7273c529a93/ReportSection35ec580db9a92b74d1f0?chromeless=true",
       "duration": 90,
       "tabReloadIntervalSeconds": 120
     },
     { "_comment":"Indicadores NOC - Títulos e Valores",
-      "url": "https://app.powerbi.com/groups/09c1b13a-55bf-405c-a8d0-6aa9f0b14c89/reports/4853f735-96a8-4072-83e6-8e39db1de903/ReportSection33dd381e8ffc65f06325?chromeless=true",
+      "url": "https://app.powerbi.com/groups/35f90e9f-3720-49a9-b741-a345850636fd/reports/df228ce4-41e5-48cd-b00e-e7273c529a93/ReportSection33dd381e8ffc65f06325?chromeless=true",
       "duration": 90,
       "tabReloadIntervalSeconds": 120
     },
     { "_comment":"NOC - HELP BTO & SISCON",
-      "url": "https://app.powerbi.com/groups/me/reports/5271db4f-728d-4bf3-a0ca-c84824a6e8a9?chromeless=true",
+      "url": "https://app.powerbi.com/groups/35f90e9f-3720-49a9-b741-a345850636fd/reports/a6b3c11b-af2c-408b-9eac-a3d623c278d7/ReportSection?chromeless=true",
       "duration": 90,
       "tabReloadIntervalSeconds": 120
     }
